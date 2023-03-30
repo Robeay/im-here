@@ -1,4 +1,4 @@
-# apt update
-# apt upgrade
-# pkg install python
+apt update
+apt upgrade
+pkg install python
  Choice all section -y
