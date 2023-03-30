@@ -1,6 +1,6 @@
-apt update
+#apt update
 
-apt upgrade
+#apt upgrade
 
 pkg install python
 
